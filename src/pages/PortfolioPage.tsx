@@ -332,6 +332,7 @@ const PortfolioPage = () => {
           </div>
         </div>
       </section>
+      
     </div>
   );
 };

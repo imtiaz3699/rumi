@@ -1,6 +1,5 @@
 import { Button } from '../components/ui/button';
 import { 
-  Code, 
   Smartphone, 
   Globe, 
   Palette, 
@@ -147,7 +146,7 @@ const ServicesPage = () => {
           </div>
 
           <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
-            {mainServices.map((service, index) => (
+            {mainServices.map((service) => (
               <div key={service.id} className="bg-white border border-gray-200 rounded-2xl p-8 hover:shadow-xl transition-all duration-300 hover:-translate-y-2">
                 <div className="flex items-center mb-6">
                   {service.icon}

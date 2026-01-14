@@ -5,7 +5,6 @@ import {
   Github, 
   Globe, 
   Smartphone,
-  ShoppingCart,
   Users,
   BarChart3,
   Calendar,

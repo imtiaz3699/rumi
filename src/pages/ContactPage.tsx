@@ -8,7 +8,6 @@ import {
   Send,
   MessageCircle,
   Calendar,
-  Users,
   CheckCircle,
   Globe,
   Linkedin,

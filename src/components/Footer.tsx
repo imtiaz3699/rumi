@@ -29,12 +29,12 @@ const Footer = () => {
     { name: 'E-commerce', href: '/services#ecommerce' }
   ];
 
-  const company = [
-    { name: 'Our Story', href: '/about#story' },
-    { name: 'Our Team', href: '/about#team' },
-    { name: 'Careers', href: '/careers' },
-    { name: 'Blog', href: '/blog' }
-  ];
+  // const company = [
+  //   { name: 'Our Story', href: '/about#story' },
+  //   { name: 'Our Team', href: '/about#team' },
+  //   { name: 'Careers', href: '/careers' },
+  //   { name: 'Blog', href: '/blog' }
+  // ];
 
   const socialLinks = [
     {
